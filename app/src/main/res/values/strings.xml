@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Examen_BurguerV2</string>
+    <string name="dispones_de_c_digo_promocional">Dispones de código promocional?</string>
+    <string name="aplicar">APLICAR</string>
+    <string name="hamburguesa">hamburguesa</string>
+    <string name="complemento">complemento</string>
+    <string name="cupon">cupon</string>
+    <string name="iva">iva</string>
+    <string name="total">total</string>
+    <string name="c_digo">Código</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="todo">TODO</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="cliente_registrado">Cliente registrado:</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="registrado">registrado</string>
+    <string name="complemento3">Complemento:</string>
+    <string name="hamburguesa2">Hamburguesa:</string>
+    <string-array name="array_Burguer">
+        <item>Mc Pollo</item>
+        <item>XXL</item>
+    </string-array>
+    <string-array name="array_complemento">
+        <item>Coca-cola</item>
+        <item>Patatas</item>
+    </string-array>
+</resources>
